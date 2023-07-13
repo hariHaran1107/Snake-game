@@ -1,2 +1,2 @@
 # Snake-game
-Snake game is created using java script
+Snake game is created using java script library
